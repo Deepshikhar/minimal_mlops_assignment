@@ -1,0 +1,9 @@
+2026-02-23 14:56:07 - INFO - Job started 2026-02-23
+2026-02-23 14:56:07 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-23 14:56:07 - INFO - Data loaded: 10000 rows
+2026-02-23 14:56:07 - INFO - Computing rolling mean with window=5
+2026-02-23 14:56:07 - INFO - Rolling mean calculated
+2026-02-23 14:56:07 - INFO - Generating signals
+2026-02-23 14:56:07 - INFO - Signals generated
+2026-02-23 14:56:07 - INFO - Metrics: signal_rate=0.4989, rows_processed=10000
+2026-02-23 14:56:07 - INFO - Job completed successfully in 19ms
