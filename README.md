@@ -1,4 +1,4 @@
-# MLOps Engineering Internship - Mini Pipeline
+# MLOps Engineering - Mini Pipeline
 
 ## Overview
 This repository implements a small MLOps-style batch pipeline:
